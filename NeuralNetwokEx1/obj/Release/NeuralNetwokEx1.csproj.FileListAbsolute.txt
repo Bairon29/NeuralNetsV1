@@ -1,0 +1,6 @@
+D:\Document - Data\General_programming\cSharpPro\NeuralNetwokEx1\NeuralNetwokEx1\bin\Release\NeuralNetwokEx1.exe.config
+D:\Document - Data\General_programming\cSharpPro\NeuralNetwokEx1\NeuralNetwokEx1\bin\Release\NeuralNetwokEx1.exe
+D:\Document - Data\General_programming\cSharpPro\NeuralNetwokEx1\NeuralNetwokEx1\bin\Release\NeuralNetwokEx1.pdb
+D:\Document - Data\General_programming\cSharpPro\NeuralNetwokEx1\NeuralNetwokEx1\obj\Release\NeuralNetwokEx1.csproj.CoreCompileInputs.cache
+D:\Document - Data\General_programming\cSharpPro\NeuralNetwokEx1\NeuralNetwokEx1\obj\Release\NeuralNetwokEx1.exe
+D:\Document - Data\General_programming\cSharpPro\NeuralNetwokEx1\NeuralNetwokEx1\obj\Release\NeuralNetwokEx1.pdb
