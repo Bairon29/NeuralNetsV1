@@ -5,3 +5,10 @@ D:\Document - Data\General_programming\cSharpPro\NeuralNetwokEx1\NeuralNetwokEx1
 D:\Document - Data\General_programming\cSharpPro\NeuralNetwokEx1\NeuralNetwokEx1\obj\Debug\NeuralNetwokEx1.exe
 D:\Document - Data\General_programming\cSharpPro\NeuralNetwokEx1\NeuralNetwokEx1\obj\Debug\NeuralNetwokEx1.pdb
 D:\Document - Data\General_programming\cSharpPro\NeuralNetwokEx1\NeuralNetwokEx1\obj\Debug\NeuralNetwokEx1.csprojAssemblyReference.cache
+D:\Document - Data\General_programming\cSharpPro\NeuralNetsV1\NeuralNetwokEx1\bin\Debug\NeuralNetwokEx1.exe.config
+D:\Document - Data\General_programming\cSharpPro\NeuralNetsV1\NeuralNetwokEx1\bin\Debug\NeuralNetwokEx1.exe
+D:\Document - Data\General_programming\cSharpPro\NeuralNetsV1\NeuralNetwokEx1\bin\Debug\NeuralNetwokEx1.pdb
+D:\Document - Data\General_programming\cSharpPro\NeuralNetsV1\NeuralNetwokEx1\obj\Debug\NeuralNetwokEx1.csprojAssemblyReference.cache
+D:\Document - Data\General_programming\cSharpPro\NeuralNetsV1\NeuralNetwokEx1\obj\Debug\NeuralNetwokEx1.csproj.CoreCompileInputs.cache
+D:\Document - Data\General_programming\cSharpPro\NeuralNetsV1\NeuralNetwokEx1\obj\Debug\NeuralNetwokEx1.exe
+D:\Document - Data\General_programming\cSharpPro\NeuralNetsV1\NeuralNetwokEx1\obj\Debug\NeuralNetwokEx1.pdb

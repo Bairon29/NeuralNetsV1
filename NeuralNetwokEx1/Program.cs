@@ -21,7 +21,7 @@ namespace NeuralNetwokEx1
         {
             NeuralNet testNet = new NeuralNet();
 
-            testNet = testNet.initNet(2, 0, 0, 1);
+            testNet = testNet.initNet(3, 0, 0, 1);
 
             Console.WriteLine("-------------PERCEPTRON INIT NET---------------");
 
